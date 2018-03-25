@@ -1,0 +1,57 @@
+{
+	"111" : {
+		"pro_sort" : ["男装","男士上装","长袖衬衫"],
+		"pro_EngName" : "BURBERRY",
+		"pro_name" : "巴宝莉 新品男款纯棉衬衫 4005653 4636B",
+		"pro_messimg" : ["../img/xiangqing1/nan_shang1.JPG","../img/xiangqing1/nan_shang2.JPG","../img/xiangqing1/nan_shang3.jpg","../img/xiangqing1/nan_shang4.jpg","../img/xiangqing1/nan_shang5.jpg"],
+		"pro_rimg" : ["../img/xiangqing1/nan_shang1.1.JPG","../img/xiangqing1/nan_shang1.2.JPG","../img/xiangqing1/nan_shang1.3.jpg","../img/xiangqing1/nan_shang1.4.jpg","../img/xiangqing1/nan_shang1.5.jpg"],
+		"pro_price" : "￥1599.00",
+		"pro_guoqi" : "￥2900.00",
+		"pro_youhui" : "￥691.00",
+		"color" : ["深蓝"],
+		"size" : ["S","M","L","XL"],
+		"pro_shengyu" : "5",
+		"bianhao" : "230103058633",
+		
+		"huohao" : "01302785",
+		"hot":[
+			{
+				"hot1_img" : "../img/xiangqing1/persent_l1.JPG",
+				"hot1_text" :"男士时尚长袖衬衫",
+				"hot1_price" : "￥235.00"
+			
+			},
+			{
+				"hot1_img" : "../img/xiangqing1/persent_l2.JPG",
+				"hot1_text" :"男士时尚长袖衬衫",
+				"hot1_price" : "￥235.00"
+			
+			},
+			{
+				"hot1_img" : "../img/xiangqing1/persent_l3.JPG",
+				"hot1_text" :"男士时尚长袖衬衫",
+				"hot1_price" : "￥235.00"
+			
+			},
+			{
+				"hot1_img" : "../img/xiangqing1/persent_l4.jpg",
+				"hot1_text" :"男士时尚长袖衬衫",
+				"hot1_price" : "￥235.00"
+			
+			},
+			{
+				"hot1_img" : "../img/xiangqing1/present_l5.JPG",
+				"hot1_text" :"男士时尚长袖衬衫",
+				"hot1_price" : "￥235.00"
+			
+			}
+			
+		],
+		"bianhao1": "10230103037141",
+		"time" : "2016/11/10 14:19:56",
+		"kg" : "/",
+		"pro_mess_img" : ["../img/xiangqing1/pre_r_main1.jpg","../img/xiangqing1/pre_r_main2.jpg","../img/xiangqing1/pre_r_main3.jpg","../img/xiangqing1/pre_r_main4.jpg","../img/xiangqing1/pre_r_main5.jpg","../img/xiangqing1/pre_r_main6.jpg",
+						"../img/xiangqing1/pre_r_main7.jpg","../img/xiangqing1/pre_r_main8.jpg","../img/xiangqing1/pre_r_main9.jpg","../img/xiangqing1/pre_r_main10.jpg","../img/xiangqing1/pre_r_main11.jpg","../img/xiangqing1/pre_r_main12.jpg",
+						"../img/xiangqing1/pre_r_main13.jpg","../img/xiangqing1/pre_r_main14.jpg"]
+	}
+}

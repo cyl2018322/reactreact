@@ -1,0 +1,74 @@
+{
+	"head_img" : "../img/shechipin/searchbanner.gif",
+	"search" : ["新百伦","T恤","连衣裙","休闲鞋","防晒","春装","耐克"],
+	"side_logo" : [
+ 		{"logo" :  ["../img/sidelogo1.jpg","../img/sidelogo2.jpg","../img/sidelogo3.jpg","../img/sidelogo4.jpg","../img/sidelogo5.jpg","../img/sidelogo6.jpg"]},
+		{"logo" :  ["../img/sidelogo1.jpg","../img/sidelogo2.jpg","../img/sidelogo3.jpg","../img/sidelogo4.jpg","../img/sidelogo5.jpg","../img/sidelogo6.jpg"]},
+ 		{"logo" :  ["../img/sidelogo1.jpg","../img/sidelogo2.jpg","../img/sidelogo3.jpg","../img/sidelogo4.jpg","../img/sidelogo5.jpg","../img/sidelogo6.jpg"]},
+ 		{"logo" :  ["../img/sidelogo1.jpg","../img/sidelogo2.jpg","../img/sidelogo3.jpg","../img/sidelogo4.jpg","../img/sidelogo5.jpg","../img/sidelogo6.jpg"]},
+ 		{"logo" :  ["../img/sidelogo1.jpg","../img/sidelogo2.jpg","../img/sidelogo3.jpg","../img/sidelogo4.jpg","../img/sidelogo5.jpg","../img/sidelogo6.jpg"]},
+ 		{"logo" :  ["../img/sidelogo1.jpg","../img/sidelogo2.jpg","../img/sidelogo3.jpg","../img/sidelogo4.jpg","../img/sidelogo5.jpg","../img/sidelogo6.jpg"]},
+ 		{"logo" :  ["../img/sidelogo1.jpg","../img/sidelogo2.jpg","../img/sidelogo3.jpg","../img/sidelogo4.jpg","../img/sidelogo5.jpg","../img/sidelogo6.jpg"]},
+ 		{"logo" :  ["../img/sidelogo1.jpg","../img/sidelogo2.jpg","../img/sidelogo3.jpg","../img/sidelogo4.jpg","../img/sidelogo5.jpg","../img/sidelogo6.jpg"]},
+ 		{"logo" :  ["../img/sidelogo1.jpg","../img/sidelogo2.jpg","../img/sidelogo3.jpg","../img/sidelogo4.jpg","../img/sidelogo5.jpg","../img/sidelogo6.jpg"]},
+ 		{"logo" :  ["../img/sidelogo1.jpg","../img/sidelogo2.jpg","../img/sidelogo3.jpg","../img/sidelogo4.jpg","../img/sidelogo5.jpg","../img/sidelogo6.jpg"]}
+ 	],
+ 	"lunbo" : ["../img/shechipin/shechibanner.jpg"],
+ 	"brand" : {
+ 		"brand_img":["../img/shechipin/brand1.jpg","../img/shechipin/brand2.jpg","../img/shechipin/brand3.jpg","../img/shechipin/brand4.jpg","../img/shechipin/brand5.jpg"],
+ 		"brand_logo":["../img/shechipin/brand11.jpg","../img/shechipin/brand12.jpg","../img/shechipin/brand13.jpg","../img/shechipin/brand14.jpg","../img/shechipin/brand15.jpg","../img/shechipin/brand16.jpg","../img/shechipin/brand17.jpg"],
+ 		"brand_text" :["范思哲","托德斯","芬迪","安普尼奥.阿玛尼","杜嘉班纳","古驰","宝缇佳"]
+ 	},
+ 	"special" :[
+ 		{
+ 			"wflb":{
+	 			"img" : ["../img/shechipin/special1.jpg","../img/shechipin/special2.jpg","../img/shechipin/special3.jpg","../img/shechipin/special4.jpg"],
+	 			"price" : ["￥1599.00","￥690.00","￥1890.00","￥1290.00"],
+	 			"del" : ["￥2900.00","￥990.00","￥2700.00","￥1850.00"],
+	 			"text" : ["BURBERRY","ARMANI JEANS","LOVE MOSCHINO","ARMANI JEANS"]
+ 			}
+ 		}
+ 	
+ 	],
+ 	
+ 	"special1" :[
+ 		{ 	"l_img" : "../img/shechipin/clothing.jpg",
+ 			"r_mess" : {
+ 				"r_pro1img" : "../img/shechipin/clothing1.jpg",
+ 				"r_pro2img" :["../img/shechipin/clothing2.jpg","../img/shechipin/clothing3.jpg","../img/shechipin/clothing4.jpg","../img/shechipin/clothing5.jpg"],
+ 				"r_english" :["BURBERRY","Moschino","BURBERRY","Moschino","Versace Collection"],
+ 				"r_text" : ["新品男款纯棉衬衫","女款针织套头衫","男款纯棉POLO衫","女款纯棉针织套头","男式长袖衬衫"],
+ 				"r_price" :["2290.00元","990.00元","1590.00元","1590.00元","1890.00元"]
+ 			}
+ 		},
+ 		{ 	"l_img" : "../img/shechipin/clothing.jpg",
+ 			"r_mess" : {
+ 				"r_pro1img" : "../img/shechipin/clothing1.jpg",
+ 				"r_pro2img" :["../img/shechipin/clothing2.jpg","../img/shechipin/clothing3.jpg","../img/shechipin/clothing4.jpg","../img/shechipin/clothing5.jpg"],
+ 				"r_english" :["BURBERRY","Moschino","BURBERRY","Moschino","Versace Collection"],
+ 				"r_text" : ["新品男款纯棉衬衫","女款针织套头衫","男款纯棉POLO衫","女款纯棉针织套头","男式长袖衬衫"],
+ 				"r_price" :["2290.00元","990.00元","1590.00元","1590.00元","1890.00元"]
+ 			}
+ 		},
+ 		{ 	"l_img" : "../img/shechipin/clothing.jpg",
+ 			"r_mess" : {
+ 				"r_pro1img" : "../img/shechipin/clothing1.jpg",
+ 				"r_pro2img" :["../img/shechipin/clothing2.jpg","../img/shechipin/clothing3.jpg","../img/shechipin/clothing4.jpg","../img/shechipin/clothing5.jpg"],
+ 				"r_english" :["BURBERRY","Moschino","BURBERRY","Moschino","Versace Collection"],
+ 				"r_text" : ["新品男款纯棉衬衫","女款针织套头衫","男款纯棉POLO衫","女款纯棉针织套头","男式长袖衬衫"],
+ 				"r_price" :["2290.00元","990.00元","1590.00元","1590.00元","1890.00元"]
+ 			}
+ 		},
+ 		{ 	"l_img" : "../img/shechipin/clothing.jpg",
+ 			"r_mess" : {
+ 				"r_pro1img" : "../img/shechipin/clothing1.jpg",
+ 				"r_pro2img" :["../img/shechipin/clothing2.jpg","../img/shechipin/clothing3.jpg","../img/shechipin/clothing4.jpg","../img/shechipin/clothing5.jpg"],
+ 				"r_english" :["BURBERRY","Moschino","BURBERRY","Moschino","Versace Collection"],
+ 				"r_text" : ["新品男款纯棉衬衫","女款针织套头衫","男款纯棉POLO衫","女款纯棉针织套头","男式长袖衬衫"],
+ 				"r_price" :["2290.00元","990.00元","1590.00元","1590.00元","1890.00元"]
+ 			}
+ 		}
+ 	],
+ 	"outmall" : ["../img/shechipin/fen1.jpg","../img/shechipin/fen2.jpg","../img/shechipin/fen3.jpg"]
+ 	
+}

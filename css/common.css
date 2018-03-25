@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+body,html,ul,li,h3,img,a,h4,h5,h6,p,input,select,dl,dt,dd,div{ margin:0; padding:0; }
+input{outline: 0;}
+ul,li{ list-style:none;}
+em,i{font-style: normal;}
+select,input,img{ border:0;}
+select,input{ background: none;}
+a{ text-decoration:none;}
+img{ border:0;}
+.fl{ float:left;}
+.fr{ float:right;}
+.mr0{margin: 0 !important;}
+.br0{border: none !important;}
+

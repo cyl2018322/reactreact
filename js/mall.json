@@ -1,0 +1,39 @@
+{
+	"mall_pro1" : {
+		"mall_pro1_img" :["img/mall_main1.jpg","img/mall_main1.jpg","img/mall_main2.jpg","img/mall_main2.jpg","img/mall_main2.jpg","img/mall_main2.jpg"],
+		"mall_lun" :["img/mall_main_lun1.jpg","img/mall_main_lun1.jpg","img/mall_main_lun2.jpg","img/mall_main_lun1.jpg"]
+		
+	},
+	"mall_fen1" : [
+		{
+			"mall_fen1_img" :["img/mall_fen1.jpg","img/mall_fen1_1.jpg","img/mall_fen1_1.jpg","img/mall_fen1_2.jpg","img/mall_fen1_1.jpg","img/mall_fen1.jpg","img/mall_fen1.jpg","img/mall_fen1.jpg"],
+			"mall_fen_p" : ["男士棒球领夹克","男士棒球领夹克","男士棒球领夹克","男士棒球领夹克","男士棒球领夹克","男士棒球领夹克","男士棒球领夹克","男士棒球领夹克"],
+			"mall_fen_nowprice" : ["￥699","￥699","￥699","￥699","￥699","￥699","￥699","￥699"],
+			"mall_fen_yuanprice" :["￥1399","￥1399","￥1399","￥1399","￥1399","￥1399","￥1399","￥1399"]
+		},
+		{
+			"mall_fen1_img" :["img/mall_fen1.jpg","img/mall_fen1.jpg","img/mall_fen1.jpg","img/mall_fen1.jpg","img/mall_fen1.jpg","img/mall_fen1.jpg","img/mall_fen1.jpg","img/mall_fen1.jpg"],
+			"mall_fen_p" : ["男士棒球领夹克","男士棒球领夹克","男士棒球领夹克","男士棒球领夹克","男士棒球领夹克","男士棒球领夹克","男士棒球领夹克","男士棒球领夹克"],
+			"mall_fen_nowprice" : ["￥699","￥699","￥699","￥699","￥699","￥699","￥699","￥699"],
+			"mall_fen_yuanprice" :["￥1399","￥1399","￥1399","￥1399","￥1399","￥1399","￥1399","￥1399"]
+		},
+		{
+			"mall_fen1_img" :["img/mall_fen1.jpg","img/mall_fen1.jpg","img/mall_fen1.jpg","img/mall_fen1.jpg","img/mall_fen1.jpg","img/mall_fen1.jpg","img/mall_fen1.jpg","img/mall_fen1.jpg"],
+			"mall_fen_p" : ["男士棒球领夹克","男士棒球领夹克","男士棒球领夹克","男士棒球领夹克","男士棒球领夹克","男士棒球领夹克","男士棒球领夹克","男士棒球领夹克"],
+			"mall_fen_nowprice" : ["￥699","￥699","￥699","￥699","￥699","￥699","￥699","￥699"],
+			"mall_fen_yuanprice" :["￥1399","￥1399","￥1399","￥1399","￥1399","￥1399","￥1399","￥1399"]
+		},
+		{
+			"mall_fen1_img" :["img/mall_fen1.jpg","img/mall_fen1.jpg","img/mall_fen1.jpg","img/mall_fen1.jpg","img/mall_fen1.jpg","img/mall_fen1.jpg","img/mall_fen1.jpg","img/mall_fen1.jpg"],
+			"mall_fen_p" : ["男士棒球领夹克","男士棒球领夹克","男士棒球领夹克","男士棒球领夹克","男士棒球领夹克","男士棒球领夹克","男士棒球领夹克","男士棒球领夹克"],
+			"mall_fen_nowprice" : ["￥699","￥699","￥699","￥699","￥699","￥699","￥699","￥699"],
+			"mall_fen_yuanprice" :["￥1399","￥1399","￥1399","￥1399","￥1399","￥1399","￥1399","￥1399"]
+		},
+		{
+			"mall_fen1_img" :["img/mall_fen1.jpg","img/mall_fen1.jpg","img/mall_fen1.jpg","img/mall_fen1.jpg","img/mall_fen1.jpg","img/mall_fen1.jpg","img/mall_fen1.jpg","img/mall_fen1.jpg"],
+			"mall_fen_p" : ["男士棒球领夹克","男士棒球领夹克","男士棒球领夹克","男士棒球领夹克","男士棒球领夹克","男士棒球领夹克","男士棒球领夹克","男士棒球领夹克"],
+			"mall_fen_nowprice" : ["￥699","￥699","￥699","￥699","￥699","￥699","￥699","￥699"],
+			"mall_fen_yuanprice" :["￥1399","￥1399","￥1399","￥1399","￥1399","￥1399","￥1399","￥1399"]
+		}
+	]
+}

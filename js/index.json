@@ -1,0 +1,171 @@
+{
+	"head_img" : "img/head-search-banner.jpg",
+	"search" : ["新百伦","T恤","连衣裙","休闲鞋","防晒","春装","耐克"],
+	"sidebar_onenav" : [
+		{"kind" : ["奢侈品","包袋","服装","配饰"]},
+		{"kind": ["女装","外套","连衣裙","针织衫"]},
+		{"kind": ["男装","衬衫","T恤","休闲裤"]},
+		{"kind": ["运动","男运动服","女运动服"]},
+		{"kind": ["鞋靴","休闲鞋","高跟鞋"]},
+		{"kind": ["箱包","男包","女包","手提包"]},
+		{"kind": ["内衣","文胸","内裤","睡衣"]},
+		{"kind": ["婴童","童鞋","宝宝用品"]},
+		{"kind": ["美妆","面膜","洗护","彩妆"]},
+		{"kind": ["跨境汇","进口彩妆","进口母婴"]}
+ 	],
+ 	"sidebar_twonav" : [
+ 		{ "pro" : [
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","平底鞋","高跟鞋","靴子"]},
+ 			{"kind1" : ["女装","商务鞋","休闲鞋"]}
+ 			]
+ 		},
+ 		{ "pro" : [
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","平底鞋","高跟鞋","靴子"]},
+ 			{"kind1" : ["女装","商务鞋","休闲鞋"]}
+ 			]
+ 		},
+ 		{ "pro" : [
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","平底鞋","高跟鞋","靴子"]},
+ 			{"kind1" : ["女装","商务鞋","休闲鞋"]}
+ 			]
+ 		},
+ 		{ "pro" : [
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","平底鞋","高跟鞋","靴子"]},
+ 			{"kind1" : ["女装","商务鞋","休闲鞋"]}
+ 			]
+ 		},
+ 		{ "pro" : [
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","平底鞋","高跟鞋","靴子"]},
+ 			{"kind1" : ["女装","商务鞋","休闲鞋"]}
+ 			]
+ 		},
+ 		{ "pro" : [
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","平底鞋","高跟鞋","靴子"]},
+ 			{"kind1" : ["女装","商务鞋","休闲鞋"]}
+ 			]
+ 		},
+ 		{ "pro" : [
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","平底鞋","高跟鞋","靴子"]},
+ 			{"kind1" : ["女装","商务鞋","休闲鞋"]}
+ 			]
+ 		},
+ 		{ "pro" : [
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","平底鞋","高跟鞋","靴子"]},
+ 			{"kind1" : ["女装","商务鞋","休闲鞋"]}
+ 			]
+ 		},
+ 		{ "pro" : [
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","平底鞋","高跟鞋","靴子"]},
+ 			{"kind1" : ["女装","商务鞋","休闲鞋"]}
+ 			]
+ 		},
+ 		{ "pro" : [
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","短袖T恤","长袖T恤","裙装","裤装","针织衫","外套"]},
+ 			{"kind1" : ["女装","平底鞋","高跟鞋","靴子"]},
+ 			{"kind1" : ["女装","商务鞋","休闲鞋"]}
+ 			]
+ 		}
+ 	] ,
+ 	"side_logo" : [
+ 		{"logo" :  ["img/sidelogo1.jpg","img/sidelogo2.jpg","img/sidelogo3.jpg","img/sidelogo4.jpg","img/sidelogo5.jpg","img/sidelogo6.jpg"]},
+ 		{"logo" :  ["img/sidelogo1.jpg","img/sidelogo2.jpg","img/sidelogo3.jpg","img/sidelogo4.jpg","img/sidelogo5.jpg","img/sidelogo6.jpg"]},
+ 		{"logo" :  ["img/sidelogo1.jpg","img/sidelogo2.jpg","img/sidelogo3.jpg","img/sidelogo4.jpg","img/sidelogo5.jpg","img/sidelogo6.jpg"]},
+ 		{"logo" :  ["img/sidelogo1.jpg","img/sidelogo2.jpg","img/sidelogo3.jpg","img/sidelogo4.jpg","img/sidelogo5.jpg","img/sidelogo6.jpg"]},
+ 		{"logo" :  ["img/sidelogo1.jpg","img/sidelogo2.jpg","img/sidelogo3.jpg","img/sidelogo4.jpg","img/sidelogo5.jpg","img/sidelogo6.jpg"]},
+ 		{"logo" :  ["img/sidelogo1.jpg","img/sidelogo2.jpg","img/sidelogo3.jpg","img/sidelogo4.jpg","img/sidelogo5.jpg","img/sidelogo6.jpg"]},
+ 		{"logo" :  ["img/sidelogo1.jpg","img/sidelogo2.jpg","img/sidelogo3.jpg","img/sidelogo4.jpg","img/sidelogo5.jpg","img/sidelogo6.jpg"]},
+ 		{"logo" :  ["img/sidelogo1.jpg","img/sidelogo2.jpg","img/sidelogo3.jpg","img/sidelogo4.jpg","img/sidelogo5.jpg","img/sidelogo6.jpg"]},
+ 		{"logo" :  ["img/sidelogo1.jpg","img/sidelogo2.jpg","img/sidelogo3.jpg","img/sidelogo4.jpg","img/sidelogo5.jpg","img/sidelogo6.jpg"]},
+ 		{"logo" :  ["img/sidelogo1.jpg","img/sidelogo2.jpg","img/sidelogo3.jpg","img/sidelogo4.jpg","img/sidelogo5.jpg","img/sidelogo6.jpg"]}
+ 	],
+ 	"lunbo" : ["img/banner.jpg","img/banner1.jpg"],
+ 	"lunboBc" : ["#c00","#fe0000"],
+	"sale"  : [
+		{ "sale1" : ["img/sale1.jpg","￥6500.00","￥4150.00"]},
+		{ "sale1" : ["img/sale2.jpg","￥6500.00","￥4150.00"]},
+		{ "sale1" : ["img/sale3.jpg","￥6500.00","￥4150.00"]},
+		{ "sale1" : ["img/sale4.jpg","￥6500.00","￥4150.00"]},
+		{ "sale1" : ["img/sale5.jpg"]}
+	],
+	"new" : [
+		{"new1" : ["img/new1.jpg","img/new_1_3.jpg","Trisr/才子","折上8.5"]},
+		{"new1" : ["img/new2.jpg","img/new_1_3.jpg","Trisr/才子","折上8.5"]},
+		{"new1" : ["img/new3.jpg","img/new_1_3.jpg","Trisr/才子","折上8.5"]},
+		{"new1" : ["img/new4.jpg","img/new_1_3.jpg","Trisr/才子","折上8.5"]},
+		{"new1" : ["img/new5.jpg","img/new_1_3.jpg","Trisr/才子","折上8.5"]}
+	],
+	"main_pro_bimg" : ["img/new_bo.jpg","img/new_bo.jpg","img/new_bo.jpg","img/new_bo.jpg"],
+	"luxury" : [
+		{"luxury_1" : "img/luxury_l.jpg" },
+		{"luxury_2" : ["img/luxury1.jpg","img/luxury2.jpg"]},
+		{"luxury_3" : ["img/luxury3.jpg","img/luxury4.jpg","img/luxury5.jpg"]},
+		{"luxury_4" : ["img/luxury3.jpg","img/luxury4.jpg","img/luxury5.jpg"]}
+	],
+	
+	"mall" :{
+		"mall_pro_l_img" : "img/mall_pro_l.jpg",
+		"mall_pro_l2" : ["女装","男装","运动","鞋靴","箱包","内衣","婴童","美妆"],
+		"mall_pro_pinpai" : ["adidas","好奇","G2000","艾格","拉夏贝尔"]
+		
+	},
+	
+	"overseas" :{
+		"over_pro1" : ["img/over1.jpg","img/over2.jpg"],
+		"over_pro2" : {
+			"over_pro2_img" : ["img/over3.jpg","img/over4.jpg","img/over3.jpg","img/over4.jpg"],
+			"over_pro2_text" :["aptimal爱他美","aptimal爱他美","aptimal爱他美","aptimal爱他美"],
+			"over_pro2_del" : ["￥379.00","￥379.00","￥379.00","￥379.00"],
+			"over_pro2_price" :["￥339.00","￥339.00","￥339.00","￥339.00"]
+		},
+		"over_pro_r" : ["img/over5.jpg","img/over6.jpg","img/over5.jpg","img/over5.jpg","img/over5.jpg","img/over5.jpg"]
+	},
+	"brand" : ["img/brand1.jpg","img/brand1.jpg","img/brand1.jpg","img/brand1.jpg","img/brand1.jpg","img/brand1.jpg"]
+	
+}

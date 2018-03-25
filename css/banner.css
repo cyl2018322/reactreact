@@ -1,0 +1,31 @@
+
+.banner_b_img{
+	margin-left:228px ;
+	margin-top: 10px;
+}
+.banner_b_img  img{
+	float: left;
+	margin-right: 9px;
+}
+.banner_img{
+	position: relative;
+	width:100%;
+	height: 415px;
+}
+.banner_img img{
+	position: absolute;
+}
+.banner_img p{
+	position: absolute;
+	z-index: 2;
+	left: 687px;
+	bottom: 15px;
+}
+.banner_img p span{
+	width: 17px;
+	height: 12px;
+	margin-right: 10px;
+	background: #d9d9d9;
+	border-radius: 50%;
+	float: left;
+}
